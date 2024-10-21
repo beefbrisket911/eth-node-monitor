@@ -1279,7 +1279,7 @@ dependencies = [
  "clap",
  "eyre",
  "futures-util",
- "opentelemetry 0.22.0",
+ "opentelemetry 0.23.0",
  "opentelemetry-otlp",
  "opentelemetry-stdout",
  "opentelemetry_sdk 0.22.1",
